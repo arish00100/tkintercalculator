@@ -139,11 +139,7 @@ def inp9():
         ent.insert(END,'0.')
     else:
         ent.insert(END,'.')'''
-####################
-        #Functionality of dot
-        #Responsive
-        #Precision
-#####################
+
     
 def clr0():
     strnum=ent.get()
